@@ -1,0 +1,7 @@
+C:\Users\Pikillos\source\repos\MultiplosDe3y5\bin\Debug\MultiplosDe3y5.exe.config
+C:\Users\Pikillos\source\repos\MultiplosDe3y5\bin\Debug\MultiplosDe3y5.exe
+C:\Users\Pikillos\source\repos\MultiplosDe3y5\bin\Debug\MultiplosDe3y5.pdb
+C:\Users\Pikillos\source\repos\MultiplosDe3y5\obj\Debug\MultiplosDe3y5.csprojAssemblyReference.cache
+C:\Users\Pikillos\source\repos\MultiplosDe3y5\obj\Debug\MultiplosDe3y5.csproj.CoreCompileInputs.cache
+C:\Users\Pikillos\source\repos\MultiplosDe3y5\obj\Debug\MultiplosDe3y5.exe
+C:\Users\Pikillos\source\repos\MultiplosDe3y5\obj\Debug\MultiplosDe3y5.pdb
